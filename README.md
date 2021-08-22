@@ -1,5 +1,3 @@
-# ymjh-air
-一梦江湖pc脚本
 # *一梦江湖PC脚本*
 
 ## Yair,一个GUI一梦江湖脚本（该版本仍在测试中）
@@ -30,5 +28,5 @@
 
 ## **参考** Reference
 
-[如何测试Windows应用程序？ - Airtest Project Docs (netease.com)](https://airtest.doc.io.netease.com/tutorial/7_Windows_automated_testing/)  
+[[~~如何测试Windows应用程序？ - Airtest Project Docs (netease.com)~~]](https://airtest.doc.io.netease.com/tutorial/7_Windows_automated_testing/)  
 [Airtest文档 Airtest Docs (netease.com)](https://airtest.doc.io.netease.com/)
