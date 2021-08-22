@@ -30,5 +30,5 @@
 
 ## **参考** Reference
 
-[如何测试Windows应用程序？ - Airtest Project Docs (netease.com)](https://airtest.doc.io.netease.com/tutorial/7_Windows_automated_testing/)
+[如何测试Windows应用程序？ - Airtest Project Docs (netease.com)](https://airtest.doc.io.netease.com/tutorial/7_Windows_automated_testing/)  
 [Airtest文档 Airtest Docs (netease.com)](https://airtest.doc.io.netease.com/)
