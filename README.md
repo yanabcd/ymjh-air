@@ -25,9 +25,9 @@
 1.下载airtest不要保存在C盘
 2.打开时需要“以管理员身份运行”，不然出现无法嵌入的情况
 3.在pc端进入游戏后，要把弹幕显示关闭
-![image](https://user-images.githubusercontent.com/48935623/183256142-a04acefe-bfcf-45c0-ad26-6b48c691c89e.png)
 4.打开后如何运行程序？    参考以下Reference
 ```
+![image](https://user-images.githubusercontent.com/48935623/183256142-a04acefe-bfcf-45c0-ad26-6b48c691c89e.png)
 ## **Bug** 
  因为是个人开发，欢迎提交bug~
 ## **参考** Reference
