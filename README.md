@@ -28,8 +28,8 @@
 ![image](https://user-images.githubusercontent.com/48935623/183253967-61b2cac2-450c-4305-832e-18a8ad4c543d.png)
 4.打开后如何运行程序？    参考以下Reference
 ```
-## **bug** 
-因为是个人开发，欢迎提交bug~
+## **Bug** 
+ 因为是个人开发，欢迎提交bug~
 ## **参考** Reference
 
 - [Airtest-Download](https://airtest.netease.com/home/download.html?download=win64/AirtestIDE-win-1.2.11.zip&&site=io)
