@@ -36,8 +36,9 @@
 ```
 觉得写得好就请作者喝杯咖啡吧
 ```
-![1659850902908](https://user-images.githubusercontent.com/48935623/183277278-6531bdef-f709-45ef-ab12-ed41ac197bb9.jpg =150x60)
+<!-- ![1659850902908](https://user-images.githubusercontent.com/48935623/183277278-6531bdef-f709-45ef-ab12-ed41ac197bb9.jpg){:height="100px" width="400px"} -->
 <!--  <img src="[http:...](https://user-images.githubusercontent.com/48935623/183277278-6531bdef-f709-45ef-ab12-ed41ac197bb9.jpg)" width = 50% height = 50%> -->
+<img src="https://user-images.githubusercontent.com/48935623/183277278-6531bdef-f709-45ef-ab12-ed41ac197bb9.jpg" width="20%" height="2%">
 ## **参考** Reference
 
 - [Airtest-Download](https://airtest.netease.com/home/download.html?download=win64/AirtestIDE-win-1.2.11.zip&&site=io)
